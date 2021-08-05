@@ -67,8 +67,8 @@ P(B|A) is called the likelihood, in which we consider that hypothesis is true, t
 the probability of evidence.
 P(A) is called the prior probability, probability of hypothesis before considering the evidence
 P(B) is called marginal probability, pure probability of an evidence.
-In the equation (a), in general, we can write P (B) = P(A)*P(B|Ai), hence the Bayes' rule can be
-written as:
+In the equation (a), in general, we can write P (B) = P(A)*P(B|Ai), hence the Bayes' rule can be written as:
+
 ![image](https://user-images.githubusercontent.com/86234577/128301418-7c7d5026-ad22-44cb-98cb-029341272a31.png)
 
 Where A1, A2, A3,........, An is a set of mutually exclusive and exhaustive events.

@@ -1,4 +1,4 @@
-# Diabetes-Prediction-ussing-Naive-Bayes-
+# Diabetes-Prediction-using-Naive-Bayes-
 #Introduction
 Naïve Bayes approach can be used to make the essentials of good health practices
 accessible to everyone. It will help patients by guiding them to predict diabetes using the
